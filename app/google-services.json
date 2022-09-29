@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "282907162915",
+    "project_id": "onwayinsuredb",
+    "storage_bucket": "onwayinsuredb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282907162915:android:b0114de1d9f48a432cb496",
+        "android_client_info": {
+          "package_name": "com.example.onwayinsure1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282907162915-c4ukhuug1ef8td442mmkbtgg2pk727ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTU0XZbZZBaj8c-PpZz1MtIV3_PpLgprk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282907162915-c4ukhuug1ef8td442mmkbtgg2pk727ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

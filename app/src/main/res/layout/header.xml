@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:background="@drawable/dashb3"
+    android:gravity="bottom">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="208dp"
+        android:layout_height="147dp"
+        app:srcCompat="@drawable/mainlg" />
+
+    <TextView
+        android:id="@+id/SingOut"
+        android:layout_width="match_parent"
+        android:layout_height="49dp"
+        android:text="Sign-Out"
+        android:textSize="14dp"
+        app:srcCompat="@drawable/ic_baseline_reply_24" />
+</LinearLayout>
